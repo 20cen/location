@@ -2,8 +2,8 @@
 
 > Application web complète de gestion de location d'équipements — voitures, chapiteaux, chaises, bureaux et plus — construite avec Laravel 11 et MySQL.
 
-![PHP](https://img.shields.io/badge/PHP-8.3+-8892BF?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-11.x-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-7.4+-8892BF?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-8.x-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![License](https://img.shields.io/badge/Licence-MIT-22c55e?style=flat-square)
 ![Status](https://img.shields.io/badge/Statut-Actif-f59e0b?style=flat-square)
