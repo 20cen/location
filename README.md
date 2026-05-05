@@ -10,7 +10,7 @@
 
 ---
 
-![Ecran](public/image/dash.jpg)
+![Ecran](public/location.png)
 
 ## ✦ Fonctionnalités
 
