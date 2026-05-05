@@ -255,4 +255,4 @@ Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus
 
 ---
 
-<p align="center">Développé avec ♥ au Congo-Brazzaville</p>
+<p align="center">Développé par Vincent Gérard SALABANZI</p>
