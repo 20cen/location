@@ -27,8 +27,8 @@
 
 | Couche | Technologie | Version |
 |---|---|---|
-| Backend | Laravel | 11.x |
-| Langage | PHP | 8.3+ |
+| Backend | Laravel | 8.x |
+| Langage | PHP | 7.4+ |
 | Base de données | MySQL | 8.0+ |
 | Frontend | Blade + AdminLTE | — |
 | Cache & Queues | Redis | — |
@@ -40,7 +40,7 @@
 
 ### Prérequis
 
-- PHP >= 8.3
+- PHP >= 7.4
 - Composer
 - MySQL >= 8.0
 - Node.js >= 18 & npm
