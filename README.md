@@ -10,6 +10,8 @@
 
 ---
 
+!(public/location.png)
+
 ## ✦ Fonctionnalités
 
 | Fonctionnalité | Description |
